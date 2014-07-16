@@ -1,0 +1,7 @@
+C:\System\自己资料\MVP\SupervisingController\自己实现\supervisingcontroller\supervisingcontroller\bin\Debug\supervisingcontroller.exe
+C:\System\自己资料\MVP\SupervisingController\自己实现\supervisingcontroller\supervisingcontroller\bin\Debug\supervisingcontroller.pdb
+C:\System\自己资料\MVP\SupervisingController\自己实现\supervisingcontroller\supervisingcontroller\obj\x86\Debug\supervisingcontroller.Properties.Resources.resources
+C:\System\自己资料\MVP\SupervisingController\自己实现\supervisingcontroller\supervisingcontroller\obj\x86\Debug\supervisingcontroller.csproj.GenerateResource.Cache
+C:\System\自己资料\MVP\SupervisingController\自己实现\supervisingcontroller\supervisingcontroller\obj\x86\Debug\supervisingcontroller.exe
+C:\System\自己资料\MVP\SupervisingController\自己实现\supervisingcontroller\supervisingcontroller\obj\x86\Debug\supervisingcontroller.pdb
+C:\System\自己资料\MVP\SupervisingController\自己实现\supervisingcontroller\supervisingcontroller\obj\x86\Debug\supervisingcontroller.UserView.resources
